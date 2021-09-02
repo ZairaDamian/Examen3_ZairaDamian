@@ -1,0 +1,6 @@
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\bin\Debug\Factorial.exe
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\bin\Debug\Factorial.pdb
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\obj\Debug\Factorial.exe
+C:\Users\digis\Documents\Zaira Melissa Damian Lopez\Examen3\Factorial\obj\Debug\Factorial.pdb
